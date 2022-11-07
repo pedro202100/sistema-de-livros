@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Buscar livro Pelo código</title>
+    <link rel="stylesheet" href="listarLivros.css">
+  </head>
+  <body>
+    <header>
+      <h1>Buscar Dados de um Livro</h1>
+      <div class="divisor"></div>
+    </header>
+    <main>
+      <label>Digite o código do livro cadastrado e clique em Buscar.</label>
+      <form method="GET" action="Atividade">
+        <input type="hidden" name="action" value="codigo" />
+        <label>Código: </label>
+        <input type="text" name="codigo" required />
+        <input type="submit" value="Buscar" class="button"/><br />
+        <br />
+      </form>
+      <button class="button2"><a href="./nomes_pag.html">Voltar ao início</a></button><br />
+    </main>
+  </body>
+</html>

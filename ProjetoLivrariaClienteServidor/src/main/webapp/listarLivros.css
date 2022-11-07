@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    border: box-sizing;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  header {
+    font-size: 25px;
+  }
+  
+  .divisor {
+    border: 5px solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  label{
+      font-weight: bold;
+      font-size: 18px;
+  }
+  
+  form > input{
+      margin-top: 50px;
+  }
+  
+  .button{
+      width: 100px;
+      height: 20px;
+      border-radius: 25px;
+      background-color: #f55145;
+      color: white;
+      border: none;
+  
+  }
+  
+  .button2{
+      width: 100px;
+      height: 30px;
+      border-radius: 50px;
+      background-color: #d3d3d3;
+      border: none;
+  }
+  
+  a{
+      text-decoration: none;
+      color: black;
+  }
+  
+  
+  h2{
+      padding-top: 30px;
+  }
+  

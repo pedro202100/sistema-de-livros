@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Gabriel\Desktop\ProjetoLivraria\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+49240482.index
+1939574792.index
+88073087.index
+3854828135.index
+768188255.index
+1095581272.index
+4236076345.index
